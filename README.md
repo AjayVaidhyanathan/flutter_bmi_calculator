@@ -1,10 +1,12 @@
 # bmi_calculator
 
-A new Flutter project.
+Simple BMI Calculator using flutter.
+
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+![sample app](C:\Users\mailr\Desktop\bmi.gif)
 
 A few resources to get you started if this is your first Flutter project:
 
